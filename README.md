@@ -1,5 +1,5 @@
-cd ai-pest-detection
-python -m venv venv
+cd ai-pest-detection <br>
+python -m venv venv <br>
 
 # Windows
 venv\Scripts\activate
