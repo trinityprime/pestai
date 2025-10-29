@@ -1,0 +1,48 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# ---- Virtual Environment ----
+venv/
+env/
+.venv/
+
+# ---- Jupyter Notebook ----
+.ipynb_checkpoints/
+
+# ---- Logs and Temp Files ----
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# ---- Model Files and Datasets ----
+*.pt
+*.h5
+*.ckpt
+*.weights
+*.onnx
+datasets/
+data/
+models/
+outputs/
+runs/
+
+# ---- OS / IDE Files ----
+.vscode/
+.idea/
+*.bak
+
+# ---- Environment & Config ----
+.env
+*.yaml
+*.yml
+
+# ---- Large Media Files ----
+*.jpg
+*.jpeg
+*.png
+*.mp4
